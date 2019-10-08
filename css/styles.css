@@ -11,17 +11,19 @@ nav{
     
 }
 .home{
-    background-image: url("../images/farm-product.jpeg");
+    background-image: url("../images/Farm-background.jpg");
     background-size: cover;
     height: 100vh;
 }
 .nav-bar{
     display: flex;
     float: right;
+    clear: both;
 }
 .login{
-    background-color: lightgreen;
-    
+    /* background-color: green; */
+    display: flex;
+    float: right;
 }
 i {
     padding: 20px;
