@@ -1,0 +1,31 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ ul li{
+    display: inline;
+    padding: 20px;
+}
+nav{
+    margin:30px;
+    
+}
+.home{
+    background-image: url("../images/Farm-background.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.nav-bar{
+    display: flex;
+    float: right;
+    clear: both;
+}
+.login{
+    /* background-color: green; */
+    display: flex;
+    float: right;
+}
+i {
+    padding: 20px;
+    font-size: 25px;
+}
